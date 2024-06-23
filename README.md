@@ -6,7 +6,7 @@ NLP Persian
     pyenv local 3.11
     python -m venv .venv
     source .venv/Scripts/activate
-    pip install --upgrade pip
+    python.exe -m pip install --upgrade pip
     pip install -r requirements.txt
     ```
 
