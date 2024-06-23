@@ -8,7 +8,10 @@ NLP Persian
     pip install --upgrade pip
     pip install -r requirements.txt
     ```
-       ```Bash
-   python.exe -m pip install --upgrade pip
+
+    
+      Bash:
+      ```
+    python.exe -m pip install --upgrade pip
    ```
 
