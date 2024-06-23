@@ -3,6 +3,7 @@ NLP Persian
 
     For `Git-Bash` CLI :
     ```
+    pyenv local 3.11
     python -m venv .venv
     source .venv/Scripts/activate
     pip install --upgrade pip
