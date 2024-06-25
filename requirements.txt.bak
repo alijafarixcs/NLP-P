@@ -1,5 +1,5 @@
 jupyterlab
-hazm @ git+https://github.com/roshan-research/hazm.git
+hazm
 scipy==1.10.1
 matplotlib
 pandas
